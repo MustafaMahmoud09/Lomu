@@ -1,5 +1,5 @@
 {
-    "name": "Lomu/smallmvc",
+    "name": "lomu/smallmvc",
     "description": "small mvc",
     "autoload": {
       "psr-4": {
